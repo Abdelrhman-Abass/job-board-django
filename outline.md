@@ -2,15 +2,11 @@
     -- title
     -- location specified
     -- job Type
-    -- company logo
     -- job description
     -- job summary [
-        published - Vacancy - status - experienced - location - salary - deadline
+        published - Vacancy  - experienced - location - salary 
         ]
-    -- share
-    -- related jobs
     
-    -- save job 
     -- apply job
     -- post job
 
